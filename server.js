@@ -53,7 +53,7 @@ io.on('connection' , (socket) => {
     })
 })
 
-server.listen(process.env.PORT||9090)
+server.listen(process.env.PORT||443)
 
 //to create unique id of each room we have used uuid
 // npm install uid 
