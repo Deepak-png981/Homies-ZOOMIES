@@ -7,7 +7,7 @@ A web version of zoom app made using Express JS, Node JS, Peer JS , Vanilla JS ,
 Where individulas can talk on video call, share content, hold meetings, classes or can simply chat.
 Using these basic features can bring about tremendous beneficial aspects:
 <br />
-* For Video Chit-Chats
+* For Video Chit-Chats among HOMIES
 * PROFESSIONAL SECTOR
 * EDUCATIONAL SECTOR
 
