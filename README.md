@@ -2,7 +2,7 @@
 Greetings to the Readers ! I have created website to deliver a platform to the user in which one can easily communicate and interact with larger groups all around. Specifically its a replica similar to zoom and other similar applications.
 <br />
 <br />
-A web version of zoom app made using Express JS, Node JS, Peer JS , Vanilla JS ,Socket IO and a little bit of BootStrap
+A web version of zoom app made using Express JS, Node JS, Peer JS , Vanilla JS ,Socket IO , WebRTC and a little bit of BootStrap
 <br />
 Where individulas can talk on video call, share content, hold meetings, classes or can simply chat.
 Using these basic features can bring about tremendous beneficial aspects:
@@ -27,4 +27,5 @@ Using these basic features can bring about tremendous beneficial aspects:
  4) Socket.IO
  5) PeerJS
  6) uuid
+ 7)WebRTC
 ```
