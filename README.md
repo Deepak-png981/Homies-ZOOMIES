@@ -27,5 +27,5 @@ Using these basic features can bring about tremendous beneficial aspects:
  4) Socket.IO
  5) PeerJS
  6) uuid
- 7)WebRTC
+ 7) WebRTC
 ```
